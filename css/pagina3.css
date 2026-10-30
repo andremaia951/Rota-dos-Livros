@@ -1,0 +1,27 @@
+body {
+    background-color: #f5f5dc; /* Bege */
+    color: #333;
+}
+
+/* Seção específica */
+#conteudo {
+    background: #fff8dc; /* CornSilk */
+    border: 2px solid #cd853f; /* Peru */
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Títulos e detalhes */
+h2 {
+    color: #cd853f; /* Peru */
+}
+
+strong {
+    color: #ff4500; /* Laranja Vermelho */
+}
+
+/* Imagens */
+#conteudo img {
+    border: 5px solid #cd853f; /* Peru */
+}

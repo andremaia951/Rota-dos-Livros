@@ -1,0 +1,27 @@
+body {
+    background-color: #1e1e1e; /* Preto */
+    color: #e0e0e0; /* Cinza claro */
+}
+
+/* Seção específica */
+#conteudo {
+    background: #2e2e2e; /* Cinza escuro */
+    border: 2px solid #6a5acd; /* SlateBlue */
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+/* Títulos e detalhes */
+h2 {
+    color: #6a5acd; /* SlateBlue */
+}
+
+strong {
+    color: #00bfff; /* Azul DeepSkyBlue */
+}
+
+/* Imagens */
+#conteudo img {
+    border: 5px solid #6a5acd; /* SlateBlue */
+}
